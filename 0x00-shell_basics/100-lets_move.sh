@@ -1,2 +1,2 @@
-#! /bin/bash
+#!/bin/bash
 find . -name '[A-Z]*' mv -t /tmp/u {} +
